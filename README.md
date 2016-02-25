@@ -1,6 +1,4 @@
-## This repository contains ROS packages developed using Ubuntu 14.04 LTS and ROS-Indigo (catkin workspace).
-
-### ble_scanner
+## ble_scanner
 A package to scan Bluetooth low energy devices and publish MAC-address and RSSI of each one.
 
 To compile and run (in ble_scanner/src):
